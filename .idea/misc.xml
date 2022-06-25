@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/apps/colourMoon/app/src/main/res/drawable-v24/curve_editext.xml" value="0.16666666666666666" />
+        <entry key="..\:/apps/colourMoon/app/src/main/res/drawable-v24/ic_back_arrow.xml" value="0.16666666666666666" />
+        <entry key="..\:/apps/colourMoon/app/src/main/res/drawable/curve_editext.xml" value="0.16666666666666666" />
+        <entry key="..\:/apps/colourMoon/app/src/main/res/drawable/curve_textview_blue.xml" value="0.16666666666666666" />
+        <entry key="..\:/apps/colourMoon/app/src/main/res/drawable/ic_back_arrow.xml" value="0.16666666666666666" />
+        <entry key="..\:/apps/colourMoon/app/src/main/res/drawable/ic_camera.xml" value="0.16666666666666666" />
+        <entry key="..\:/apps/colourMoon/app/src/main/res/drawable/ic_noun_user_856030.xml" value="0.16666666666666666" />
+        <entry key="..\:/apps/colourMoon/app/src/main/res/font/poppins.xml" value="0.16666666666666666" />
+        <entry key="..\:/apps/colourMoon/app/src/main/res/layout/activity_account.xml" value="0.15625" />
+        <entry key="..\:/apps/colourMoon/app/src/main/res/layout/activity_add_employee.xml" value="0.18" />
+        <entry key="..\:/apps/colourMoon/app/src/main/res/layout/activity_hr.xml" value="0.15625" />
+        <entry key="..\:/apps/colourMoon/app/src/main/res/layout/activity_main.xml" value="0.1390625" />
+        <entry key="..\:/apps/colourMoon/app/src/main/res/layout/activity_mainten.xml" value="0.15625" />
+        <entry key="..\:/apps/colourMoon/app/src/main/res/layout/fragment_account.xml" value="0.15625" />
+        <entry key="..\:/apps/colourMoon/app/src/main/res/layout/fragment_department.xml" value="0.15625" />
+        <entry key="..\:/apps/colourMoon/app/src/main/res/layout/viewholder.xml" value="0.15625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
